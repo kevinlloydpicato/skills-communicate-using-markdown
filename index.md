@@ -1,5 +1,7 @@
-# This is an `<h1>` header, which is the largest.
+# Merry Christmas Folks!
 
-## This is an `<h2>` header, the second largest.
+## “It’s easy to forget that life is the greatest gift of all.” — Karli Perrin, “The Gift”
 
-###### This is an `<h6>` header, which is the smallest but...
+###### ho ho ho ho ho ho ho ho ho ho...
+
+![Image of Saint Nictocat](https://octodex.github.com/images/saint_nictocat.jpg)
